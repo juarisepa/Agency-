@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App baseline */
+:root {
+	color-scheme: light;
+}
+
+html, body, #root {
+	height: 100%;
+}
+
+body {
+	@apply bg-gray-100 antialiased;
+}
