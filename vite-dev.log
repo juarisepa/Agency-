@@ -1,0 +1,10 @@
+
+> pitchdeck@0.0.0 dev
+> vite --host 0.0.0.0 --strictPort --port 5173
+
+
+  VITE v7.1.2  ready in 115 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.30.0.2:5173/
+  ➜  press h + enter to show help
